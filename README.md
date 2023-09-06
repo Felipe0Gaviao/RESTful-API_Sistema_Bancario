@@ -15,7 +15,7 @@
    - Por padrão a senha será `Cubos123Bank`
    - Então para ter certeza de que não haverá barreiras te impedindo de listar, a url que você deve acessar será `http://localhost:3000/contas?senha_banco=Cubos123Bank`
    - De inicio, não haverá nenhuma conta no banco de dados, então a requisição deve retornar `[]`
-   - logo, para ela mostrar alguma coisa você deve usar o:
+   - logo, para ela mostrar alguma coisa, você deve usar o:
      
 2. Criar
    - Requisição de Método `POST`
